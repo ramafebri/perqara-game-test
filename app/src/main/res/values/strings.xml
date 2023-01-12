@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GamesApp</string>
+    <string name="title_home">Home</string>
+    <string name="detail_activity">Detail</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="search_games">Search Games</string>
+    <string name="released_text">Release: %s</string>
+    <string name="rating_text">Rating: %s</string>
+    <string name="played_time_text">Played: %s</string>
+
+    <!-- Error Message -->
+    <string name="message_error_add_favorite">Tidak dapat menambahkan data</string>
+    <string name="message_error_delete_favorite">Tidak dapat menghapus data</string>
+</resources>
